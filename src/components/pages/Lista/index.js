@@ -20,8 +20,8 @@ class Lista extends Component{
                 <div className="reg-form-lista">
                     <h1 className="text">Lista</h1>
                 </div>
-                    
-                    <table>
+                <div>
+                    <table className="content-table">
                         <thead>
                             <tr>
                                 <th>Id</th>
@@ -51,6 +51,7 @@ class Lista extends Component{
                             ))}
                         </tbody>
                     </table>
+                </div>
             </div>
         );
     }
