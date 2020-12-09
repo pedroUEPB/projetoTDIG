@@ -7,7 +7,7 @@
 }
 
 .reg-form-lista{
-    margin:  25px auto;;
+    margin:  25px auto;
     background: rgba(0,0,0,0.8);
     padding: 30px;
     border-radius: 5px;
@@ -22,7 +22,7 @@
 
 .content-table{
     border-collapse: collapse;
-    margin: 25px 0;
+    margin: 25px auto;
     font-size: 0.9em;
     min-width: 400px;
     border-radius: 5px 5px 0 0;
