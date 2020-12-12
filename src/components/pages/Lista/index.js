@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import api from '../../../server/api'
+import api from '../../server/api';
 
 class Lista extends Component{
     state={
